@@ -26,7 +26,7 @@ To run the Snake game on your local machine, follow these steps:
 <br>**Up Arrow**: Move the snake up.
 <br>**Down Arrow**: Move the snake down.
 
-# Game view
+# Game overview
 
 ![SnakeGame](https://github.com/Jennynamela/SnakeGame/blob/main/Screenshot%20(437).png)
 
