@@ -20,10 +20,16 @@ To run the Snake game on your local machine, follow these steps:
 <br>The game window will open, and you can now play the Snake game using the arrow keys.
 
 # Game Controls
+
 **Left Arrow**: Move the snake left.
 <br>**Right Arrow**: Move the snake right.
 <br>**Up Arrow**: Move the snake up.
 <br>**Down Arrow**: Move the snake down.
+
+# Game view
+
+![SnakeGame](image_url)
+
 
 # Acknowledgments
 
