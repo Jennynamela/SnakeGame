@@ -28,7 +28,7 @@ To run the Snake game on your local machine, follow these steps:
 
 # Game view
 
-![SnakeGame](image_url)
+![SnakeGame](https://github.com/Jennynamela/SnakeGame/blob/main/Screenshot%20(437).png)
 
 
 # Acknowledgments
